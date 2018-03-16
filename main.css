@@ -1,0 +1,9 @@
+.black-border {
+  border: 4px solid black;
+  width: 600px;
+}
+
+.chartreuse-border {
+  border: 4px solid chartreuse;
+  width: 600px;
+}
